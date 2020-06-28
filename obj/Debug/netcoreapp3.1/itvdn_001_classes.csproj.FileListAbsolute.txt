@@ -1,0 +1,12 @@
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/bin/Debug/netcoreapp3.1/itvdn_001_classes.deps.json
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/bin/Debug/netcoreapp3.1/itvdn_001_classes.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/bin/Debug/netcoreapp3.1/itvdn_001_classes.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/bin/Debug/netcoreapp3.1/itvdn_001_classes.dll
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/bin/Debug/netcoreapp3.1/itvdn_001_classes.pdb
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.csprojAssemblyReference.cache
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.dll
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.pdb
+/Users/sergeymelnikov/projects/csharp_101/itvdn_001_classes/obj/Debug/netcoreapp3.1/itvdn_001_classes.genruntimeconfig.cache
