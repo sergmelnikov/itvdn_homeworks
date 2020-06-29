@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_4/classes_4.csproj": {}
+    "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_4/classes_4.csproj": {}
   },
   "projects": {
-    "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_4/classes_4.csproj": {
+    "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_4/classes_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_4/classes_4.csproj",
+        "projectUniqueName": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_4/classes_4.csproj",
         "projectName": "classes_4",
-        "projectPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_4/classes_4.csproj",
+        "projectPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_4/classes_4.csproj",
         "packagesPath": "/Users/sergeymelnikov/.nuget/packages/",
-        "outputPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_4/obj/",
+        "outputPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_4/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

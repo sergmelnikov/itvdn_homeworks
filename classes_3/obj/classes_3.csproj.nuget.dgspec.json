@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_3/classes_3.csproj": {}
+    "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_3/classes_3.csproj": {}
   },
   "projects": {
-    "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_3/classes_3.csproj": {
+    "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_3/classes_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_3/classes_3.csproj",
+        "projectUniqueName": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_3/classes_3.csproj",
         "projectName": "classes_3",
-        "projectPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_3/classes_3.csproj",
+        "projectPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_3/classes_3.csproj",
         "packagesPath": "/Users/sergeymelnikov/.nuget/packages/",
-        "outputPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_3/obj/",
+        "outputPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_3/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_5/classes_5.csproj",
+      "projectUniqueName": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_5/classes_5.csproj",
       "projectName": "classes_5",
-      "projectPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_5/classes_5.csproj",
+      "projectPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_5/classes_5.csproj",
       "packagesPath": "/Users/sergeymelnikov/.nuget/packages/",
-      "outputPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_essential_homeworks/classes_5/obj/",
+      "outputPath": "/Users/sergeymelnikov/projects/csharp_101/itvdn_homeworks/classes_5/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
